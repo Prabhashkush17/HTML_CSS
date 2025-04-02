@@ -13,6 +13,10 @@
             <input type="number" placeholder="enter your name"><br>
 
             <input type="submit">
+        
+            <input type="color">
+            <input type="date">
+            <input type="checkbox">
         </form>
     </body>
 </html>
