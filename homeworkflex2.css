@@ -14,13 +14,13 @@
     }
  
 button{
-    
+    padding: 5px;
     background-color: tomato;
 }
 }
 .main{
     display: flex;
     align-items: center;
-    justify-content: space-around;
+    justify-content: center;
     background-color: navajowhite;
 }

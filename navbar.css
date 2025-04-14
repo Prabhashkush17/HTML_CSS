@@ -1,0 +1,25 @@
+.navbar{
+    
+    
+    background-color: rgb(224, 108, 14);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+}
+.navbar ul{
+ display: flex;
+ gap: 30px;
+ list-style: none;
+
+}
+.hero{
+    height: 100vh;
+    background-image: url(image.jpg);
+    background-size: cover;
+}
+.contant{
+    background-image: url(bergerpic2.webp);
+    background-repeat: no-repeat;
+    height: 50vh;
+}
